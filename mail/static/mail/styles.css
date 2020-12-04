@@ -1,0 +1,65 @@
+textarea {
+    min-height: 400px;
+
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    color: black;
+}
+
+h2{
+
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #3f3d56;
+}
+
+h3
+{
+	color: black;
+	font-weight: 300;
+}
+
+body{
+
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    background-color: white;
+    color: black;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+.mail_read {
+	height: auto;
+	width: 800px;
+	border: outset;
+	border-color: lightgrey;
+	color:black;
+	background-color: #ced1d1;
+	margin-top: 15px;
+	padding: 10px;
+	border-radius: 4px;
+	text-align: left;
+
+}
+
+.mail_unread {
+	height: auto;
+	width: 800px;
+	border: outset;
+	border-color: lightgrey;
+	color:black;
+	background-color: #f7f7f7;
+	margin-top: 15px;
+	padding: 10px;
+	border-radius: 4px;
+	text-align: left;
+}
+
+
+
